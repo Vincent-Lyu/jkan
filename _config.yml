@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: bf10e81d91e0580fc7cc
+gatekeeper_host: https://mysterious-plateau-58653.herokuapp.com
 
 # Dataset schema
 schema: default
